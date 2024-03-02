@@ -1,0 +1,19 @@
+{
+    "name": "telegram-bot-for-delete-all-message",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "devDependencies": {
+        "nodemon": "^3.1.0"
+    },
+    "dependencies": {
+        "node-telegram-bot-api": "^0.64.0"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
